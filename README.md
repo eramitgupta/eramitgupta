@@ -1,4 +1,4 @@
-<h6 align="left">Hi 👋! I'm Amit Gupta  <br>Full-Stack Engineer from Lucknow, India 🇮🇳</h6>
+<h6 align="left">Hi there 👋</h6>
 
 ###
 
