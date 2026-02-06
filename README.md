@@ -7,37 +7,37 @@
   <a href="https://www.php.net/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="29" alt="php logo" />
   </a>
-  <img width="15" />
+
 
   <a href="https://laravel.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="29" alt="laravel logo" />
   </a>
-  <img width="15" />
+  
 
   <a href="https://jquery.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="29" alt="jquery logo" />
   </a>
-  <img width="15" />
+
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="29" alt="javascript logo" />
   </a>
-  <img width="15" />
+  
 
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="29" alt="typescript logo" />
   </a>
-  <img width="15" />
+  
 
   <a href="https://react.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="29" alt="react logo" />
   </a>
-  <img width="15" />
+  
 
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="29" alt="vuejs logo" />
   </a>
-  <img width="15" />
+  
 
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo" />
